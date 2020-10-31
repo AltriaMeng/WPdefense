@@ -4,6 +4,10 @@
   
  Windows用戶:
   如果您正在使用Windows,只需要配置和安装JavaScript.
+
+自签名不安全的证书：
+  如果您想连接到具有自签名证书（不安全）的HTTPS WordPress安裝，则需要在wp链接之前放置以下行来强制连接。
+    var  apiPromise  =  WPAPI 。發現（ 'http://my-site.com'  ）;
   
 稳定性不足：
   等待后续版本更新。
