@@ -15,9 +15,11 @@ Stable tag: trunk
 这插件的官方代码储存库位置于：
 https://github.com/AltriaMeng/WPdefense/
 
+
 ==描述==
 
 此插件为私人团队开发的一个插件，该插件实现的主要功能为防止恶意用户暴力登入以及对恶意登入者进行功能性限制，防止其对博客进行修改以及对账户进行恶意操作。
+
 
 ==说明==
 
@@ -31,6 +33,7 @@ https://github.com/AltriaMeng/WPdefense/
     git clone https://github.com/luangjokaj/wordpressify
     這將在本地計算機上克隆存儲庫。導航到新創建的文件夾。
 
+
 ==更新日志==
 
 V0.1_alpha
@@ -40,22 +43,29 @@ V0.1_alpha
   👌 iMPROVE:性能增强
   🚀 RELEASE：备份所有 defense 文件上传的构建文件
   
+
 ==后续开发计划==
 
 此次发布版本为WPdefense0.1_alpha：
+
   之后的版本发布分为四个周期，每个周期的更新迭代预计时间为2-3周
 
 WPdefense0.2：
+
   对于本插件进一步的可行性分析，确定其主要方向。
 
 WPdefense0.5：
+
   解决其架构核心内容，确定其整体结构。
 
 WPdefense0.9：
+
   完整核心功能，对结构进行优化调整，并对于项目进行常规Debug，解决大框架中的常识性问题。
 
 WPdefense1.0：
+
   发布项目，并加入用户反馈内容，宏观调控项目。
+
 
 ==常见问题==
 
@@ -73,6 +83,7 @@ WPdefense1.0：
 稳定性不足：
   等待后续版本更新。
   
+
 ==许可证信息==
 
   许可证：
