@@ -1,0 +1,10 @@
+配置：
+  WordPressify需要Node v7.5 +。这是唯一的全局依赖性。您需要下载Node 。
+    Node.js是基于Chrome的V8 JavaScript引擎创建的JavaScript运行时。Node.js使用事件驱动的非阻塞I / O模型，从而使其轻巧高效。Node.js的软件包生态系統npm是世界上最大的开源库生态系统。
+
+安装：
+  从储存库安裝WordPressify：
+    要安裝WordPressify，您需要从GitHub克隆储存库：
+    git clone https://github.com/luangjokaj/wordpressify
+    这將在本地计算机上克隆储存库。导航到新创建的文件夾。
+
