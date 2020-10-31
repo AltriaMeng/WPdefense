@@ -1,9 +1,13 @@
 ==快速==
 
 贡献者：杨炳汉，杨超宇，于津鉴，袁疆域
+
 标题：快速，性能，测试
+
 Stable tag: trunk
+
 许可证：MIT License
+
 目标用户：本产品插件主要面向的对象为：使用WordPress且对WordPress友好，没有恶意的用户。
 
 这是WordPress的非官方插件。
