@@ -30,7 +30,7 @@ https://github.com/AltriaMeng/WPdefense/
 安裝：
   從儲存庫安裝WordPressify：
     要安裝WordPressify，您需要從GitHub克隆存儲庫：
-    git clone https://github.com/luangjokaj/wordpressify
+    git clone https://github.com/AltriaMeng/WPdefense
     這將在本地計算機上克隆存儲庫。導航到新創建的文件夾。
 
 
