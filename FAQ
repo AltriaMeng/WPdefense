@@ -1,0 +1,9 @@
+从储存库安装WPdefense:
+  要安装WPdefense,需从GitHub克隆储存库：
+  git clone https://github.com/AltriaMeng/WPdefense/new/main
+  
+ Windows用戶:
+  如果您正在使用Windows,只需要配置和安装JavaScript.
+  
+稳定性不足：
+  等待后续版本更新。
