@@ -37,10 +37,15 @@ https://github.com/AltriaMeng/WPdefense/
 ==更新日志==
 
 V0.1_alpha
+
   📦 NEW：查阅源码。
+  
   📦 NEW：基本功能实现。
+  
   🐛 FIX：bug修复。
+  
   👌 iMPROVE:性能增强
+  
   🚀 RELEASE：备份所有 defense 文件上传的构建文件
   
 
